@@ -3,12 +3,8 @@
 
 Use this [repo](https://github.com/login?return_to=%2Fchristian-schreiber%2Freact-template%2Fgenerate) with the React quickstart to build and customize a new static site.
 
-
-
-This project was bootstrapped with Create React App.
-
 Steps:
 
 Navigate to the following location to create a new repository:
-https://github.com/staticwebdev/react-basic/generate
+https://github.com/christian-schreiber/react-template/generate
 Name your repository my-first-static-web-app
